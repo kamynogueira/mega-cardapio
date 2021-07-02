@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "996557511769",
+    "project_id": "mega-cardapio-5de89",
+    "storage_bucket": "mega-cardapio-5de89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996557511769:android:2e85c58c7d758727b0a548",
+        "android_client_info": {
+          "package_name": "com.example.mega_cardapio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996557511769-0gk7bu34iqlcb5l5r308kr6nhkhnvvd3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWoQmuQOOLQp3BWeM3lzS7I09s_04q3Wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996557511769-0gk7bu34iqlcb5l5r308kr6nhkhnvvd3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
